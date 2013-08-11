@@ -1,6 +1,7 @@
-dottmux
-=======
+Installation:
 
-Run:
+  git clone git://github.com/DevanR/dottmux.git ~/.tmux
 
-ln -s dottmux/.tmux.conf ./.tmux.conf
+Create symlinks:
+
+  ln -s ~/.dottmux/tmux.con ~/.tmux.conf
