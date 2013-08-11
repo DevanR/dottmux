@@ -4,4 +4,4 @@ Installation:
 
 Create symlinks:
 
-  ln -s ~/.dottmux/tmux.con ~/.tmux.conf
+  ln -s ~/.tmux/tmux.conf ~/.tmux.conf
